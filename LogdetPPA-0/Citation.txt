@@ -1,0 +1,8 @@
+******* Citation Information *****************************
+If you find the software LogdetPPA
+useful, please cite it in you publication as follows:
+
+Chengjing Wang, Defeng Sun, and Kim-Chuan Toh, 
+Solving log-determinant optimization problems by a Newton-CG primal 
+proximal point algorithm,  preprint, National University of Singapore, 
+September 2009.
